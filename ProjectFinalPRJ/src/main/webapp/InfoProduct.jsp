@@ -19,6 +19,7 @@
         <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/plugins/jquery-ui-1.12.1.custom/jquery-ui.css">
         <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/styles/single_styles.css">
         <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/styles/single_responsive.css">
+        <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/plugins/font-awesome-4.7.0/css/font-awesome.min.css">
     </head>
     <body>
         <!--Get information product-->
@@ -91,7 +92,7 @@
                         <div class="product_details_title"><%=pd.Description%>
                         </div>
                         <div class="free_delivery d-flex flex-row align-items-center justify-content-center">
-                            <span class="ti-truck"></span><span>free delivery</span>
+                            <span class="fa fa-truck"></span><span>Free Delivery</span>
                         </div>
                         <div class="product_price"><%=pd.Price%></div>
                         <ul class="star_rating">

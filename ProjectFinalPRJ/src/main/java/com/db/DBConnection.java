@@ -21,7 +21,7 @@ public class DBConnection {
             try {
 //              Class.forName("com.mysql.jdbc.Driver");
                 Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
-                String url = "jdbc:sqlserver://DESKTOP-TEIM7A0\\SQLEXPRESS:1433;databaseName=ProjectFinalPRJ;user=sa;password=admin;encrypt=true;trustServerCertificate=true;";
+                String url = "jdbc:sqlserver://KIENTT\\SQLEXPRESS:1433;databaseName=ProjectFinalPRJ;user=sa;password=se1605;encrypt=true;trustServerCertificate=true;";
                 conn = DriverManager.getConnection(url);
             } catch (ClassNotFoundException | SQLException ex) {
                 Logger.getLogger(DBConnection.class.getName()).log(Level.SEVERE, null, ex);
