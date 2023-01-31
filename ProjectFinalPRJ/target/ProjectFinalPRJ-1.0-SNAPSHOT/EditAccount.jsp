@@ -12,7 +12,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Edit Information</title>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700"/>
-        <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/fontawesome.min.css" />
+        <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/plugins/font-awesome-4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/jquery-ui-datepicker/jquery-ui.min.css" type="text/css" />
         <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/bootstrap.min.css" />
         <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/templatemo-style.css">

@@ -22,7 +22,7 @@
         <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/styles/responsive.css">
         <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/assets/css/style.css">
         <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/Shopping-Cart/fonts.googleapis.com/css?family=Duru+Sans|Istok+Web">
-        <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/Shopping-Cart/css/font-awesome.min.css">
+        <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/plugins/font-awesome-4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/Shopping-Cart/css/main.css">
         <style>
             #myBtn {

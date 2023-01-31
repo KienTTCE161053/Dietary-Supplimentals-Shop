@@ -14,7 +14,7 @@
         <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/Login/css/main.css"/>
         <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/Login/vendor/bootstrap/css/bootstrap.min.css"/>
         <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/Login/vendor/animate/animate.css"/>
-        <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/Login/fonts/font-awesome-4.7.0/css/font-awesome.min.css"/>
+        <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/plugins/font-awesome-4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/Login/fonts/Linearicons-Free-v1.0.0/icon-font.min.css"/>
         <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/Login/vendor/css-hamburgers/hamburgers.min.css"/>
         <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/Login/vendor/animsition/css/animsition.min.css">
