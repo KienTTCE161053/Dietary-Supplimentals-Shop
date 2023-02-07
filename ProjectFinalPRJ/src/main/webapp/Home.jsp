@@ -51,7 +51,7 @@
             String usernameMain = (String) request.getAttribute("username");
             AccountDAO ac = new AccountDAO();
             String Fullname = ac.getFullNameAccount(usernameMain);
-
+            
         %>
 
         <div class="super_container">
